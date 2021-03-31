@@ -40,5 +40,3 @@ while n!=num:
     
     print(generate_password(length, chars))
     n+=1
-#протестировать
-#test complite
